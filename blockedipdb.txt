@@ -6,7 +6,6 @@
 184.105.247.192/26   /* *.shadowserver.org */
 216.218.206.64/26    /* *.shadowserver.org */
 
-
 45.43.33.218         /* chen.probe.onyphe.net */
 68.183.53.77         /* 4addf5cd.tidalcoinage.internet-measurement.com */
 93.174.95.106        /* battery.census.shodan.io */
@@ -17,8 +16,10 @@
 104.152.52.236       /* email scan */
 104.248.204.195      /* 61fcef98.tidalcoinage.internet-measurement.com */
 157.245.216.203      /* 0635fd7e.tidalcoinage.internet-measurement.com */
+159.223.154.6        /* portscanner-nyc1-04.prod.cyberresilience.io */
 161.35.157.58        /* portscanner-ams3-04.prod.cyberresilience.io */
 162.142.125.217      /* scanner-05.ch1.censys-scanner.com */
+162.142.125.224      /* scanner-25.ch1.censys-scanner.com */
 165.22.39.64         /* 0ccac968.tidalcoinage.internet-measurement.com */
 167.94.138.34        /* scanner-06.ch1.censys-scanner.com */
 167.94.138.35        /* scanner-06.ch1.censys-scanner.com */
@@ -33,11 +34,8 @@
 167.248.133.37       /* scanner-08.ch1.censys-scanner.com */
 167.248.133.52       /* scanner-09.ch1.censys-scanner.com */
 167.248.133.53       /* scanner-09.ch1.censys-scanner.com */
-167.248.133.52       /* scanner-09.ch1.censys-scanner.com */
-185.142.236.34       /* hat.census.shodan.io */
-199.45.155.18        /* scanner-202.hk2.censys-scanner.com */
 178.32.170.30        /* mcbride.probe.onyphe.net */
-159.223.154.6        /* portscanner-nyc1-04.prod.cyberresilience.io */
-162.142.125.224      /* scanner-25.ch1.censys-scanner.com */
+185.142.236.34       /* hat.census.shodan.io */
 188.166.26.88        /* 3be35768.tidalcoinage.internet-measurement.com */
+199.45.155.18        /* scanner-202.hk2.censys-scanner.com */
 209.97.152.248       /* b5fc67be.tidalcoinage.internet-measurement.com */
