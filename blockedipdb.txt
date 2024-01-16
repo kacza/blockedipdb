@@ -13,6 +13,7 @@
 87.236.176.112       /* adroit.monitoring.internet-measurement.com */
 87.236.176.120       /* mighty.monitoring.internet-measurement.com */
 87.236.176.234       /* commended.monitoring.internet-measurement.com */
+87.236.176.0/24      /* *.monitoring.internet-measurement.com */
 104.152.52.236       /* email scan */
 104.248.204.195      /* 61fcef98.tidalcoinage.internet-measurement.com */
 157.245.216.203      /* 0635fd7e.tidalcoinage.internet-measurement.com */
@@ -37,5 +38,6 @@
 178.32.170.30        /* mcbride.probe.onyphe.net */
 185.142.236.34       /* hat.census.shodan.io */
 188.166.26.88        /* 3be35768.tidalcoinage.internet-measurement.com */
+193.163.125.0/24     /* *.census.internet-measurement.com */
 199.45.155.18        /* scanner-202.hk2.censys-scanner.com */
 209.97.152.248       /* b5fc67be.tidalcoinage.internet-measurement.com */
