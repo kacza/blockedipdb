@@ -1,5 +1,0 @@
-138.68.232.198  "prod-boron-sfo2-61.do.binaryedge.ninja"
-178.128.15.181  "prod-boron-sfo2-91.do.binaryedge.ninja"
-167.71.26.225   "prod-beryllium-nyc1-66.do.binaryedge.ninja"
-173.230.149.139 "prod-boron-us-west-82.li.binaryedge.ninja"
-45.79.151.242   "prod-boron-us-east-91.li.binaryedge.ninja"
