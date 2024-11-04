@@ -1,4 +1,7 @@
-[![Arduino Versions](https://img.shields.io/badge/Linux-iptables-orange)](https://www.netfilter.org/projects/iptables/index.html)<br />
+[![Linux Versions](https://img.shields.io/badge/Linux-iptables-orange)](https://www.netfilter.org/projects/iptables/index.html)<br />
+[![FreeBSD Version](https://img.shields.io/badge/FreeBSD-PF-brightgreen)](https://docs.freebsd.org/en/books/handbook/firewalls/)
+[![FreeBSD Version](https://img.shields.io/badge/FreeBSD-IPFW-brightgreen)](https://docs.freebsd.org/en/books/handbook/firewalls/)
+[![FreeBSD Version](https://img.shields.io/badge/FreeBSD-IPFILTER-brightgreen)](https://docs.freebsd.org/en/books/handbook/firewalls/)
 
 # blockedipdb
 a database containing the IP addresses of crawlers, bots, scanners etc.
