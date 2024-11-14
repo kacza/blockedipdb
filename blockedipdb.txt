@@ -1,4 +1,3 @@
-# Updated: 2024-11-14 22:45
 13.91.217.1         /* azpdwgb30.stretchoid.com */
 35.203.210.87       /* 87.210.203.35.bc.googleusercontent.com */
 40.85.156.234       /* azpdwgb96.stretchoid.com */
